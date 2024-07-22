@@ -10,7 +10,7 @@ public class Connector {
     public static Connection conn=null;
     private static final String url="jdbc:mysql://localhost:3306/tasks";
     private static final String name="root";
-    private static final String password=".Adgjmptw5";
+    private static final String password="root";
 
 
     public static Connection getConn(){
